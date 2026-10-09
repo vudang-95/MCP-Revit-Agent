@@ -1,0 +1,4 @@
+<Project>
+  <!-- Chan Directory.Build.props cua repo DeepBim cu (thu muc cha) de khong anh huong DTV_MCP.
+       Phien ban Revit / TFM lay tu Directory.Revit.props dung chung (import trong DtvMcpRevit.csproj). -->
+</Project>

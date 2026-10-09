@@ -1,0 +1,12 @@
+# Build outputs
+[Bb]in/
+[Oo]bj/
+Release/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Logs
+*.log

@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="DtvMcpBridge/DtvMcpBridge.csproj" />
+  <Project Path="DtvMcpRevit/DtvMcpRevit.csproj" />
+  <Project Path="DtvMcpSetup/DtvMcpSetup.csproj" />
+</Solution>
