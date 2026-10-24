@@ -1,6 +1,6 @@
 # DTV MCP – AI ↔ Revit (2021–2026)
 
-cùng **30 tool, cùng tên và tham số**. Không cần Node.js, không license, không gọi URL ngoài.
+Không cần Node.js, không license, không gọi URL ngoài.
 
 ```
 Desktop app / CLI-Agent / Cursor
